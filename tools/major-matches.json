@@ -1,0 +1,681 @@
+{
+  "matches": [
+    {
+      "school": "가천대",
+      "field": "인문",
+      "old": "경영학부",
+      "new": "경영학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "사용자 확인과 두 학년도 공식 경쟁률표의 동일 계열·전형 대조.",
+      "sources": [
+        "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio10190451.html",
+        "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio10190601.html"
+      ]
+    },
+    {
+      "school": "가천대",
+      "field": "자연",
+      "old": "금융수학과",
+      "new": "금융수학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "학칙 개정에서 금융수학전공을 기존 금융수학과의 후속 전공으로 표시. 별도 빅데이터경영전공은 연결 범위에서 제외.",
+      "sources": [
+        "https://www.gachon.ac.kr/bbs/kor/182/98270/download.do"
+      ]
+    },
+    {
+      "school": "가천대",
+      "field": "자연",
+      "old": "스마트시티융합학과",
+      "new": "스마트시티학과",
+      "tracks": [
+        "general"
+      ],
+      "note": "가천대 학칙 개정 자료의 학과명 변경 항목.",
+      "sources": [
+        "https://www.gachon.ac.kr/bbs/kor/1152/95074/download.do"
+      ]
+    },
+    {
+      "school": "경북대",
+      "field": "자연",
+      "old": "농업토목생물산업공학부/농업토목공학전공",
+      "new": "농업토목공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2025 원본도 농업토목공학전공을 별도 선발. 2026 대학 자료에서 같은 분야의 농업토목공학과 확인.",
+      "sources": [
+        "https://cn.knu.ac.kr/~chn/download/gra_guide_kr2026-1.pdf"
+      ]
+    },
+    {
+      "school": "경상국립대",
+      "field": "인문",
+      "old": "국제통상학부",
+      "new": "국제통상학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "대학 학과 연혁에 국제통상학부에서 국제통상학과로 변경 명시. 두 해 모두 전체 단위로 기록.",
+      "sources": [
+        "https://www.gnu.ac.kr/trade/cm/cntnts/cntntsView.do?cntntsId=3192&mi=5649",
+        "https://www.gnu.ac.kr/trade/cm/cntnts/cntntsView.do?cntntsId=7933&mi=17351"
+      ]
+    },
+    {
+      "school": "경상국립대",
+      "field": "자연",
+      "old": "양식생명과학과",
+      "new": "해양생명과학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "경상국립대 보도자료에 양식생명과학과에서 해양생명과학과로 변경 명시.",
+      "sources": [
+        "https://map.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1070&nttSn=2194772"
+      ]
+    },
+    {
+      "school": "경희대(국제)",
+      "field": "자연",
+      "old": "전자공학과",
+      "new": "전자정보공학부/전자공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2026 편입 요강에서 동일한 전자공학과에 상위 학부 표기가 붙은 경우. 반도체 모집은 별개로 유지.",
+      "sources": [
+        "https://iphak.khu.ac.kr/detail.do?board_seq=16705&categoryid=4&menuurl=cRn%2FaEwx6apTQh9HEMyZTw%3D%3D&pageNo=1"
+      ]
+    },
+    {
+      "school": "단국대(죽전)",
+      "field": "자연",
+      "old": "전자전기공학부/융합반도체공학전공",
+      "new": "융합반도체공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "단국대 학과 공지에서 같은 학과의 이전 전공 교육과정과 개편 후 학과 교육과정을 안내.",
+      "sources": [
+        "https://cms.dankook.ac.kr/web/sce/-1?_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_bbsMessageId=156725&p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0"
+      ]
+    },
+    {
+      "school": "단국대(죽전)",
+      "field": "자연",
+      "old": "전자전기공학부/전자전기공학전공",
+      "new": "전자전기공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2025에도 전자전기공학전공을 별도 선발했고 2026에는 전자전기공학과로 표시. 융합반도체공학과는 별도.",
+      "sources": [
+        "https://cms.dankook.ac.kr/ko/web/kor/organization"
+      ]
+    },
+    {
+      "school": "동국대(WISE)",
+      "field": "자연",
+      "old": "자동차소재부품공학과",
+      "new": "자동차소재부품공학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "동국대 WISE의 학사구조개편에서 전공과 학과가 같은 전공의 표기임을 확인. 원본 연도별 표기를 그대로 표시.",
+      "sources": [
+        "https://wise.dongguk.ac.kr/article/acdnotice/detail/519281"
+      ]
+    },
+    {
+      "school": "명지대(자연)",
+      "field": "예체능",
+      "old": "피아노전공",
+      "new": "예술학부/피아노전공",
+      "tracks": [
+        "general"
+      ],
+      "note": "입학처의 두 학년도 전형방법 비교에 예술학부 피아노전공을 같은 단위로 표시.",
+      "sources": [
+        "https://iphak.mju.ac.kr/pages/?b=B_1_1&bn=29173&m=read&p=9"
+      ]
+    },
+    {
+      "school": "상명대",
+      "field": "자연",
+      "old": "지능데이터융합학부/휴먼지능정보공학전공",
+      "new": "지능데이터융합학부/휴먼AI공학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "상명대 입학처에서 휴먼지능정보공학전공에서 휴먼AI공학전공으로 명칭 변경 명시.",
+      "sources": [
+        "https://admission.smu.ac.kr/bbs/fileview.php?bbsid=seoul_mojib&file_seq=8303"
+      ]
+    },
+    {
+      "school": "서울여대",
+      "field": "자연",
+      "old": "생명환경공학전공",
+      "new": "생명환경공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "서울여대 학사 안내에서 구 전공과 현 학과를 같은 단위에 병기.",
+      "sources": [
+        "https://www.swu.ac.kr/bbs/swu/56/111469/download.do"
+      ]
+    },
+    {
+      "school": "서울여대",
+      "field": "자연",
+      "old": "식품공학전공",
+      "new": "식품공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "서울여대 학사 안내에서 구 전공과 현 학과를 같은 단위에 병기.",
+      "sources": [
+        "https://www.swu.ac.kr/bbs/swu/56/111469/download.do"
+      ]
+    },
+    {
+      "school": "서울여대",
+      "field": "자연",
+      "old": "식품영양학전공",
+      "new": "식품영양학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "서울여대 학사 안내에서 구 전공과 현 학과를 같은 단위에 병기.",
+      "sources": [
+        "https://www.swu.ac.kr/bbs/swu/56/111469/download.do"
+      ]
+    },
+    {
+      "school": "성신여대",
+      "field": "인문",
+      "old": "경영학부",
+      "new": "경영학과",
+      "tracks": [
+        "general"
+      ],
+      "note": "성신여대 학사 연혁과 입학처 가이드의 경영학부에서 경영학과로 개편. 경쟁률은 원본의 선발 집계 수치.",
+      "sources": [
+        "https://archive.sungshin.ac.kr/service/hisotry.do",
+        "https://ipsi.sungshin.ac.kr/bbs/fileview.php?bbsid=guidebook&file_seq=2360"
+      ]
+    },
+    {
+      "school": "성신여대",
+      "field": "예체능",
+      "old": "산업디자인과",
+      "new": "디자인과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "성신여대 학과 공지의 산업디자인과에서 디자인과로 학과명 변경.",
+      "sources": [
+        "https://www.sungshin.ac.kr/bbs/indusdesign/3616/127739/artclView.do"
+      ]
+    },
+    {
+      "school": "세종대",
+      "field": "자연",
+      "old": "우주항공시스템공학부/우주항공공학전공",
+      "new": "우주항공드론공학부/우주항공공학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "원본 두 해에서 동일 우주항공공학전공을 별도 선발. 대학 전공 안내에서도 같은 전공을 확인.",
+      "sources": [
+        "https://www.sejong.ac.kr/kor/college/aerospace-engineering.do"
+      ]
+    },
+    {
+      "school": "숭실대",
+      "field": "자연",
+      "old": "소프트웨어학부/소프트웨어전공,소프트웨어융합전공",
+      "new": "소프트웨어학부",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "두 해 모두 소프트웨어학부 단위 1개 행. 2026 요강의 학부 표기와 대조.",
+      "sources": [
+        "https://admission.ssu.ac.kr/upload/SSU%281%29_251205165150.pdf"
+      ]
+    },
+    {
+      "school": "영남대",
+      "field": "자연",
+      "old": "컴퓨터공학과",
+      "new": "컴퓨터학부/컴퓨터공학",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "영남대 소속 명칭 안내에서 컴퓨터공학과 후속 전공을 확인. 정보통신공학전공은 별개.",
+      "sources": [
+        "https://cse.yu.ac.kr/cse/community/notice.do?article.offset=1100&articleLimit=10&articleNo=221729304&mode=view"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "미래사회공학부/기후에너지시스템공학전공",
+      "new": "기후에너지시스템공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 학칙 개정안의 학부 소속 전공에서 동일 분야 학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "소프트웨어학부/사이버보안전공",
+      "new": "사이버보안학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 인공지능대학 연혁에 사이버보안전공에서 사이버보안학과로 개편 명시.",
+      "sources": [
+        "https://ai.ewha.ac.kr/ai/intro/ones-history.do?article.offset=0&mode=list"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "소프트웨어학부/컴퓨터공학전공",
+      "new": "컴퓨터공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 인공지능대학 연혁에 컴퓨터공학전공에서 컴퓨터공학과로 개편 명시.",
+      "sources": [
+        "https://ai.ewha.ac.kr/ai/intro/ones-history.do?article.offset=0&mode=list"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "차세대기술공학부/식품생명공학전공",
+      "new": "식품생명공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 학칙 개정안의 학부 소속 전공에서 동일 분야 학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "차세대기술공학부/화공신소재공학전공",
+      "new": "화공신소재공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 학칙 개정안의 학부 소속 전공에서 동일 분야 학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "휴먼기계바이오공학부",
+      "new": "휴먼기계바이오공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "이화여대 공과대학 연혁에 휴먼기계바이오공학부에서 휴먼기계바이오공학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "인천대",
+      "field": "자연",
+      "old": "나노바이오전공",
+      "new": "나노바이오공학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "인천대 생명과학기술대학 연혁에 나노바이오전공에서 나노바이오공학전공으로 변경 명시.",
+      "sources": [
+        "https://bluecarbon-bk.inu.ac.kr/inu/819/subview.do"
+      ]
+    },
+    {
+      "school": "전북대",
+      "field": "자연",
+      "old": "생명과학부/분자생물학",
+      "new": "분자생물학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "대학 학과 연혁에서 생명과학부 분자생물학이 분자생물학과로 분과된 것을 확인. 2025 원본도 분자생물학을 별도 선발.",
+      "sources": [
+        "https://molb.jbnu.ac.kr/molb/6025/subview.do"
+      ]
+    },
+    {
+      "school": "전북대",
+      "field": "자연",
+      "old": "생명과학부/생명과학",
+      "new": "생명과학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "전북대 학사 안내의 동일 생명과학 전공 신·구 표기와 2025년 별도 선발행 대조.",
+      "sources": [
+        "https://ie.jbnu.ac.kr/main/menu?bwrite_id=VA8UAusiXbNn&do=view&gc=605XOAS&page=5"
+      ]
+    },
+    {
+      "school": "제주대",
+      "field": "자연",
+      "old": "건축학부/건축학전공(5년제)",
+      "new": "건축학부/건축학전공",
+      "tracks": [
+        "general"
+      ],
+      "note": "제주대 학과 소개에서 해당 건축학전공이 5년제임을 확인. 건축공학전공은 별개.",
+      "sources": [
+        "https://archidesign.jejunu.ac.kr/archidesign/intro/history.htm"
+      ]
+    },
+    {
+      "school": "중앙대",
+      "field": "자연",
+      "old": "융합공학부/나노바이오소재공학",
+      "new": "융합공학부/나노소재공학",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "중앙대 융합공학부의 기존 가이드와 현재 전공 소개에서 바이오메디컬공학과 별개인 동일 나노소재계 전공의 표기를 대조.",
+      "sources": [
+        "https://ie.cau.ac.kr/sch_1/introduction_3.php",
+        "https://www.cau.ac.kr/cms/FR_CON/index.do?MENU_ID=2220&P_TAB_NO=5"
+      ]
+    },
+    {
+      "school": "충북대",
+      "field": "예체능",
+      "old": "조형예술학과/서양화전공",
+      "new": "미술학과/서양화전공",
+      "tracks": [
+        "general"
+      ],
+      "note": "충북대 교육조직 개편안에서 조형예술학과가 미술학과로 변경된 것을 확인. 동일 서양화전공을 연결.",
+      "sources": [
+        "https://www.cbnu.ac.kr/www/selectBbsNttView.do?bbsNo=8&key=818&nttNo=153310"
+      ]
+    },
+    {
+      "school": "단국대(천안)",
+      "field": "자연",
+      "old": "생명과학부/미생물학전공",
+      "new": "의생명과학부/미생물학전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "2026 요강의 의생명과학부 내 미생물학전공과 2025 원본의 같은 세부전공 대조.",
+      "sources": [
+        "https://cms.dankook.ac.kr/documents/d/primus/2026-fall-intake_undergraduate-admission-guide"
+      ]
+    },
+    {
+      "school": "단국대(천안)",
+      "field": "자연",
+      "old": "생명과학부/생명과학전공",
+      "new": "의생명과학부/생명과학전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "2026 요강의 의생명과학부 내 생명과학전공과 2025 원본의 같은 세부전공 대조.",
+      "sources": [
+        "https://cms.dankook.ac.kr/documents/d/primus/2026-fall-intake_undergraduate-admission-guide"
+      ]
+    },
+    {
+      "school": "동국대",
+      "field": "자연",
+      "old": "융합에너지신소재공학과",
+      "new": "에너지신소재공학과",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "동국대 에너지신소재공학과가 자체 공지에 융합에너지신소재공학과 명칭을 사용한 이력.",
+      "sources": [
+        "https://me.dongguk.edu/article/notice/detail/178884?pageIndex=1"
+      ]
+    },
+    {
+      "school": "서울대",
+      "field": "자연",
+      "old": "건설환경공학부",
+      "new": "건설환경도시공학부",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "서울대 학부 공지에 2026학년도부터 건설환경도시공학부로 이름 변경 명시.",
+      "sources": [
+        "https://cee.snu.ac.kr/bbs/board.php?bo_table=sub6_1&wr_id=4198"
+      ]
+    },
+    {
+      "school": "숭실대",
+      "field": "자연",
+      "old": "글로벌미디어학부/미디어공학전공,콘텐츠공학전공",
+      "new": "글로벌미디어학부/AI미디어공학전공,크리에이티브콘텐츠전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "숭실대 대학 연혁에서 두 세부전공의 명칭 변경 확인. 두 해 모두 같은 두 전공을 한 행으로 집계.",
+      "sources": [
+        "https://ssu.ac.kr/학교소개/학교연혁/전체연혁/"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "미래사회공학부/건축도시시스템공학전공",
+      "new": "건축도시시스템공학과",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "이화여대 학칙 개정안의 학부 소속 전공에서 동일 분야 학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "이화여대",
+      "field": "자연",
+      "old": "미래사회공학부/환경공학전공",
+      "new": "환경공학과",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "이화여대 학칙 개정안의 학부 소속 전공에서 동일 분야 학과로 개편.",
+      "sources": [
+        "https://www.ewha.ac.kr/ewha/academics/engineering.do"
+      ]
+    },
+    {
+      "school": "전남대",
+      "field": "자연",
+      "old": "기계공학부/기계공학전공,자동차공학전공",
+      "new": "기계공학부/기계공학전공,기계자동차공학전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "전남대 요람에 자동차공학전공에서 기계자동차공학전공으로 명칭 변경 명시. 두 해의 집계 구성 유지.",
+      "sources": [
+        "https://www.jnu.ac.kr/Data/tmfiles/Down/introduction/DirectoryBulletin/directorybulletin%282019-2020%29.pdf"
+      ]
+    },
+    {
+      "school": "전남대",
+      "field": "자연",
+      "old": "신소재공학부/금속재료공학전공,세라믹재료공학전공,광전자재료전공",
+      "new": "신소재공학부/금속재료공학전공,에너지나노재료전공,광전자재료전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "전남대 학과 연혁에서 세라믹재료공학전공의 에너지나노재료전공 명칭 변경 확인. 나머지 세부전공은 동일.",
+      "sources": [
+        "https://www.jnu.ac.kr/Data/tmfiles/Down/introduction/DirectoryBulletin/2023_2024/4-3.pdf"
+      ]
+    },
+    {
+      "school": "성신여대",
+      "field": "인문",
+      "old": "경영학부/경영학전공",
+      "new": "경영학과",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "성신여대 학사 연혁으로 경영학부 내 경영학전공과 현 경영학과의 연결을 확인. 경쟁률은 원본 선발 집계 수치.",
+      "sources": [
+        "https://archive.sungshin.ac.kr/service/hisotry.do"
+      ]
+    },
+    {
+      "school": "경기대(수원)",
+      "field": "자연",
+      "old": "기계시스템공학부/기계공학전공",
+      "new": "기계시스템공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2026-11-24 사용자 확인으로 연도별 같은 선발단위로 연결. 경쟁률은 각 학년도 원본 기준.",
+      "sources": []
+    },
+    {
+      "school": "광운대",
+      "field": "인문",
+      "old": "미디어커뮤니케이션학부/인터랙티브미디어커뮤니케이션전공",
+      "new": "미디어커뮤니케이션학부/전략커뮤니케이션전공",
+      "tracks": [
+        "general"
+      ],
+      "note": "2026-11-24 사용자 확인으로 연도별 같은 선발단위로 연결. 경쟁률은 각 학년도 원본 기준.",
+      "sources": []
+    },
+    {
+      "school": "한국항공대",
+      "field": "인문",
+      "old": "경영학부",
+      "new": "경영학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2026-11-24 사용자 확인으로 연도별 같은 선발단위로 연결. 경쟁률은 각 학년도 원본 기준. 2026학년도 항공경영학과는 별도 선발행을 유지.",
+      "sources": []
+    }
+  ],
+  "review": [
+    {
+      "school": "단국대(천안)",
+      "field": "인문",
+      "old": "해병대군사학과(남)",
+      "new": "해병대군사학과",
+      "tracks": [
+        "general"
+      ],
+      "note": "남성 표기 삭제 후 모집 자격 범위가 동일한지 확인 필요."
+    },
+    {
+      "school": "인천대",
+      "field": "자연",
+      "old": "전자공학과",
+      "new": "전자공학전공",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "대학 연혁상 기존 전자공학과에서 전자공학전공과 반도체융합전공이 나뉨. 구 선발 범위의 연속성 확인 필요."
+    },
+    {
+      "school": "충북대",
+      "field": "자연",
+      "old": "전자공학부/반도체공학전공",
+      "new": "반도체공학부",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "반도체공학부가 기존 전공의 선발 범위와 동일한지 확인 필요."
+    },
+    {
+      "school": "충북대",
+      "field": "자연",
+      "old": "전자공학부/전자공학전공",
+      "new": "전자공학과",
+      "tracks": [
+        "general",
+        "bachelor"
+      ],
+      "note": "2025 전자공학전공과 2026 전자공학과의 실제 선발 범위 확인 필요."
+    },
+    {
+      "school": "한성대",
+      "field": "예체능",
+      "old": "뷰티디자인매니지먼트학과",
+      "new": "뷰티디자인매니지먼트학과(야)",
+      "tracks": [
+        "general"
+      ],
+      "note": "야간 표기 추가가 실제 선발 구분 변경인지 확인 필요."
+    },
+    {
+      "school": "광운대",
+      "field": "자연",
+      "old": "컴퓨터정보공학부/지능정보공학전공",
+      "new": "컴퓨터정보공학부/지능정보전공",
+      "tracks": [
+        "bachelor"
+      ],
+      "note": "공식 자료에 유사 명칭이 모두 등장하나 해당 연도 편입 모집단위의 연결 관계 미확인."
+    }
+  ]
+}

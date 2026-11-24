@@ -1,0 +1,216 @@
+[
+  {
+    "school": "가천대",
+    "majors": ["간호학과"],
+    "tracks": ["general"],
+    "badge": "전적대 간호학과만 지원",
+    "text": "일반편입 공통 지원자격을 충족하고 전적대학 전공이 간호학과여야 합니다. 학점은행제·독학사 등 모집요강의 동등학력 인정 경로로는 지원할 수 없습니다.",
+    "source": "https://admission.gachon.ac.kr/upload/BBS0021/2025111409273445RAY4.PDF#page=11",
+    "sourceLabel": "가천대 모집요강 · PDF 11쪽"
+  },
+  {
+    "school": "가천대",
+    "majors": ["간호학과"],
+    "tracks": ["bachelor"],
+    "badge": "전적대 간호학과만 지원",
+    "text": "학사편입 공통 지원자격을 충족하고 전적대학 전공이 간호학과여야 합니다. 학점은행제·독학사 등 모집요강의 동등학력 인정 경로로는 지원할 수 없습니다.",
+    "source": "https://admission.gachon.ac.kr/upload/BBS0021/2025111409273445RAY4.PDF#page=15",
+    "sourceLabel": "가천대 모집요강 · PDF 15쪽"
+  },
+  {
+    "school": "성신여대",
+    "majors": ["공예과", "디자인과", "기악과"],
+    "tracks": ["general", "bachelor"],
+    "badge": "실기 · 공인어학성적 미제출",
+    "text": "공인어학능력시험 성적 제출 대상에서 제외됩니다. 입학처의 정원외 일반편입·학사편입 전형표는 지원자격 서류심사(P/F)와 실기 100%를 명시합니다.",
+    "source": "https://ipsi.sungshin.ac.kr/guide/dataroom.htm?bbsid=notice&bltn_seq=35131&ctg_cd=transfer&mode=view&page=1",
+    "sourceLabel": "성신여대 모집요강 공지"
+  },
+  {
+    "school": "홍익대(세종)",
+    "majors": [
+      "디자인컨버전스학부",
+      "영상애니메이션학부",
+      "게임학부/게임그래픽디자인전공(미술계)",
+      "세종캠퍼스자율전공 디자인컨버전스학부",
+      "세종캠퍼스자율전공 영상애니메이션학부",
+      "세종캠퍼스자율전공 게임학부/게임그래픽디자인전공(미술계)"
+    ],
+    "tracks": ["general", "bachelor"],
+    "badge": "면접 시 포트폴리오 지참 불가",
+    "text": "세종캠퍼스 미술계열 면접장에는 개인 작품, 개인 서류, 포트폴리오를 지참할 수 없습니다.",
+    "source": "https://www.hongik.ac.kr/kr/admission/recruitment-transfer.do?articleNo=145569&mode=view",
+    "sourceLabel": "홍익대 모집요강 · 15~16쪽"
+  },
+  {
+    "school": "서울과학기술대",
+    "majors": ["금속공예디자인학과", "도예학과", "디자인학과/산업디자인전공", "건축학부/건축학전공"],
+    "tracks": ["general"],
+    "badge": "면접용 포트폴리오 제출 · 동일계 배점",
+    "text": "1단계 합격자는 면접용 포트폴리오를 제출합니다. 동일계 전공은 전형 점수 20점에 반영되며 비동일계도 지원할 수 있습니다. 모집요강에서 제출 방법과 동일계 분류표를 확인할 수 있습니다.",
+    "source": "https://admission.seoultech.ac.kr/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=473&BOARD_SEQ=3&CONTENTS_NO=2&MENU_ID=380&SITE_NO=2",
+    "sourceLabel": "서울과기대 모집요강 · 5~6쪽, 8~9쪽"
+  },
+  {
+    "school": "서울과학기술대",
+    "majors": ["디자인학과/시각디자인전공", "조형예술학과"],
+    "tracks": ["general"],
+    "badge": "면접용 포트폴리오 제출",
+    "text": "1단계 합격자는 면접용 포트폴리오를 제출합니다. 모집요강에서 모집단위별 포트폴리오 형식과 제출 방법을 확인할 수 있습니다.",
+    "source": "https://admission.seoultech.ac.kr/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=473&BOARD_SEQ=3&CONTENTS_NO=2&MENU_ID=380&SITE_NO=2",
+    "sourceLabel": "서울과기대 모집요강 · 6쪽, 8~9쪽"
+  },
+  {
+    "school": "서울과학기술대",
+    "majors": ["건설시스템공학과", "건축학부/건축공학전공", "기계시스템공학부/지능형로봇전공"],
+    "tracks": ["general"],
+    "badge": "동일계 배점 20점",
+    "text": "동일계 전공은 전형 점수 20점에 반영됩니다. 비동일계도 지원할 수 있으며 입학 후 지정 선이수 교과목을 추가로 이수해야 합니다.",
+    "source": "https://admission.seoultech.ac.kr/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=473&BOARD_SEQ=3&CONTENTS_NO=2&MENU_ID=380&SITE_NO=2",
+    "sourceLabel": "서울과기대 모집요강 · 5쪽, 8쪽"
+  },
+  {
+    "school": "단국대(천안)",
+    "majors": ["간호학과"],
+    "tracks": ["general"],
+    "badge": "국내대학 간호학과만 지원",
+    "text": "국내대학 간호학과 수료(예정) 또는 졸업(예정)자만 지원할 수 있습니다. 학점은행제와 외국대학 출신자는 지원할 수 없습니다. 간호학과로 편입한 이력이 있다면 전적대학에서 해당 계열을 2학기 이상 이수해야 합니다.",
+    "source": "https://ipsi.dankook.ac.kr/jukjeon/doumi/mojip.html?bbsid=juk_paper&ctg_cd=05&kw=03952E",
+    "sourceLabel": "단국대 모집요강 · 65쪽"
+  },
+  {
+    "school": "단국대(천안)",
+    "majors": ["물리치료학과", "치위생학과"],
+    "tracks": ["general", "bachelor"],
+    "badge": "전적대 공학·의학·자연과학 계열 제한",
+    "text": "국내대학의 공학·의학·자연과학(보건계열 포함) 계열 수료(예정) 또는 졸업(예정)자만 지원할 수 있습니다. 학점은행제와 외국대학 출신자는 지원할 수 없습니다. 지원자격에 해당하는 전적대학에 편입한 경우에는 그 대학에서 해당 계열을 2학기 이상 이수해야 합니다.",
+    "source": "https://ipsi.dankook.ac.kr/jukjeon/doumi/mojip.html?bbsid=juk_paper&ctg_cd=05&kw=03952E",
+    "sourceLabel": "단국대 모집요강 · 65쪽"
+  },
+  {
+    "school": "단국대(천안)",
+    "majors": ["임상병리학과"],
+    "tracks": ["bachelor"],
+    "badge": "전적대 공학·의학·자연과학 계열 제한",
+    "text": "국내대학의 공학·의학·자연과학(보건계열 포함) 계열 수료(예정) 또는 졸업(예정)자만 지원할 수 있습니다. 학점은행제와 외국대학 출신자는 지원할 수 없습니다. 지원자격에 해당하는 전적대학에 편입한 경우에는 그 대학에서 해당 계열을 2학기 이상 이수해야 합니다.",
+    "source": "https://ipsi.dankook.ac.kr/jukjeon/doumi/mojip.html?bbsid=juk_paper&ctg_cd=05&kw=03952E",
+    "sourceLabel": "단국대 모집요강 · 65쪽"
+  },
+  {
+    "school": "용인대",
+    "majors": ["유도학과", "유도경기지도학과"],
+    "tracks": ["general"],
+    "badge": "유도 단증은 선택 · 배점 반영",
+    "text": "단증 없이도 일반편입 지원이 가능합니다. 대한유도회 단증은 3단 이상 40점, 2단 30점, 초단 20점으로 반영합니다.",
+    "source": "https://ipsi.yongin.ac.kr/ipsi/guide/pyunip/mo_pyunip_20251128_1639.pdf",
+    "sourceLabel": "용인대 모집요강 · 4쪽"
+  },
+  {
+    "school": "용인대",
+    "majors": ["태권도학과/겨루기 및 품새"],
+    "tracks": ["general"],
+    "badge": "태권도 단증은 선택 · 배점 반영",
+    "text": "단증 없이도 일반편입 지원이 가능합니다. 국기원 단증은 4단 이상 40점, 3단 30점, 2단 20점, 1단 10점으로 반영합니다.",
+    "source": "https://ipsi.yongin.ac.kr/ipsi/guide/pyunip/mo_pyunip_20251128_1639.pdf",
+    "sourceLabel": "용인대 모집요강 · 4쪽"
+  },
+  {
+    "school": "용인대",
+    "majors": ["골프학과"],
+    "tracks": ["general"],
+    "badge": "KPGA·KLPGA 회원 자격은 선택",
+    "text": "KPGA·KLPGA 비회원도 일반편입에 지원할 수 있습니다. 정회원은 20점, 준회원은 15점으로 반영합니다.",
+    "source": "https://ipsi.yongin.ac.kr/ipsi/guide/pyunip/mo_pyunip_20251128_1639.pdf",
+    "sourceLabel": "용인대 모집요강 · 4쪽"
+  },
+  {
+    "school": "용인대",
+    "majors": ["유도학과", "태권도학과/겨루기 및 품새", "골프학과", "물리치료학과"],
+    "tracks": ["bachelor"],
+    "badge": "정기 ETS TOEIC 성적 필수",
+    "text": "학사편입은 국내 정기 ETS TOEIC 성적 없이 지원할 수 없습니다. 모집요강에 명시된 성적 인정 기간과 제출 방법을 확인하세요.",
+    "source": "https://ipsi.yongin.ac.kr/ipsi/guide/pyunip/mo_pyunip_20251128_1639.pdf",
+    "sourceLabel": "용인대 모집요강 · 4쪽"
+  },
+  {
+    "school": "경희대(국제)",
+    "majors": ["스포츠지도학과"],
+    "tracks": ["general"],
+    "badge": "종목별 선수 등록·전국대회 실적 필수",
+    "text": "축구·야구는 2024~2025년 해당 대학연맹 선수 등록과 학교가 인정하는 전국대회 출전 실적이 필요합니다. 기타종목은 대한체육회 선수 등록 1년 이상과 등록 기간 중 인정 전국대회 1회 이상 참가가 필요합니다. 종목별 모집 포지션과 경기실적 등급표도 확인하세요.",
+    "source": "https://iphak.khu.ac.kr/file/download.do?ofn=2026%ED%95%99%EB%85%84%EB%8F%84+%EA%B2%BD%ED%9D%AC%EB%8C%80%ED%95%99%EA%B5%90+%ED%8E%B8%EC%9E%85%ED%95%99+%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf&sfn=20251203103243375_2026%ED%95%99%EB%85%84%EB%8F%84+%EA%B2%BD%ED%9D%AC%EB%8C%80%ED%95%99%EA%B5%90+%ED%8E%B8%EC%9E%85%ED%95%99+%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+    "sourceLabel": "경희대 모집요강 · 14~16쪽"
+  },
+  {
+    "school": "아주대",
+    "majors": ["의학과"],
+    "tracks": ["general"],
+    "badge": "화학·생물 선수과목 · TOEIC 미인정",
+    "text": "화학과 생물학 계열 각각 3학점 이상, 총 6학점 이상의 선수과목이 필요합니다. 공인영어는 New TEPS 또는 TOEFL iBT를 인정합니다. 성적증명서 과목명으로 계열을 확인하기 어려운 경우 학교 서식으로 선수과목 이수내역을 증빙해야 합니다.",
+    "source": "https://www.iajou.ac.kr/notice/view.php?bn=77814&f=&m_type=PYEONIP&nPage=0&s=",
+    "sourceLabel": "아주대 모집요강 · 지원자격 및 서식 3"
+  },
+  {
+    "school": "아주대",
+    "majors": ["약학과"],
+    "tracks": ["general"],
+    "badge": "화학·생물 선수과목 총 6학점",
+    "text": "화학과 생물학 계열 각각 3학점 이상, 총 6학점 이상의 선수과목이 필요합니다. 공인영어는 New TEPS, TOEFL iBT, TOEIC을 인정합니다. 성적증명서 과목명으로 계열을 확인하기 어려운 경우 학교 서식으로 선수과목 이수내역을 증빙해야 합니다.",
+    "source": "https://www.iajou.ac.kr/notice/view.php?bn=77814&f=&m_type=PYEONIP&nPage=0&s=",
+    "sourceLabel": "아주대 모집요강 · 지원자격 및 서식 3"
+  },
+  {
+    "school": "연세대",
+    "majors": ["약학과"],
+    "tracks": ["general"],
+    "badge": "선수과목 5개 · 강의계획서 제출",
+    "text": "지정된 다섯 선수과목을 각 3학점 이상, 총 15학점 이상 이수해야 합니다. 원서에 이수(예정) 확인서를 입력하고 선수과목별 강의계획서를 제출합니다.",
+    "source": "https://admission.yonsei.ac.kr/seoul/upload/guide/20251128171519N9YQLH.PDF#page=16",
+    "sourceLabel": "연세대 모집요강 · 일반편입 10쪽"
+  },
+  {
+    "school": "연세대",
+    "majors": ["약학과"],
+    "tracks": ["bachelor"],
+    "badge": "선수과목 5개 · 강의계획서 제출",
+    "text": "지정된 다섯 선수과목을 각 3학점 이상, 총 15학점 이상 이수해야 합니다. 원서에 이수(예정) 확인서를 입력하고 선수과목별 강의계획서를 제출합니다.",
+    "source": "https://admission.yonsei.ac.kr/seoul/upload/guide/20251128171519N9YQLH.PDF#page=27",
+    "sourceLabel": "연세대 모집요강 · 학사편입 21쪽"
+  },
+  {
+    "school": "국민대",
+    "majors": ["건축학부/건축설계전공", "의상디자인학과"],
+    "tracks": ["general", "bachelor"],
+    "badge": "2026학년도 실기 40% · 면접 30%",
+    "text": "2026학년도에는 전적대학 성적 30%, 면접 30%, 실기 40%를 반영합니다. 입학처 공지의 2026학년도 전형표에서 확인할 수 있습니다.",
+    "source": "https://admission.kookmin.ac.kr/transfer/notice.php?ctype=view&no=1077&page=0",
+    "sourceLabel": "국민대 입학처 · 2026학년도 비교표"
+  },
+  {
+    "school": "국민대",
+    "majors": ["도자공예학과"],
+    "tracks": ["general"],
+    "badge": "2026학년도 실기 40% · 면접 30%",
+    "text": "2026학년도에는 전적대학 성적 30%, 면접 30%, 실기 40%를 반영합니다. 입학처 공지의 2026학년도 전형표에서 확인할 수 있습니다.",
+    "source": "https://admission.kookmin.ac.kr/transfer/notice.php?ctype=view&no=1077&page=0",
+    "sourceLabel": "국민대 입학처 · 2026학년도 비교표"
+  },
+  {
+    "school": "국민대",
+    "majors": ["공간디자인학과", "영상디자인학과"],
+    "tracks": ["bachelor"],
+    "badge": "2026학년도 실기 40% · 면접 30%",
+    "text": "2026학년도에는 전적대학 성적 30%, 면접 30%, 실기 40%를 반영합니다. 입학처 공지의 2026학년도 전형표에서 확인할 수 있습니다.",
+    "source": "https://admission.kookmin.ac.kr/transfer/notice.php?ctype=view&no=1077&page=0",
+    "sourceLabel": "국민대 입학처 · 2026학년도 비교표"
+  },
+  {
+    "school": "국민대",
+    "majors": ["미술학부/회화전공"],
+    "tracks": ["bachelor"],
+    "badge": "2026학년도 실기 50% · 영어고사 50%",
+    "text": "2026학년도에는 영어고사와 실기고사를 각각 50% 반영합니다. 입학처 공지의 2026학년도 전형표에서 확인할 수 있습니다.",
+    "source": "https://admission.kookmin.ac.kr/transfer/notice.php?ctype=view&no=1077&page=0",
+    "sourceLabel": "국민대 입학처 · 2026학년도 비교표"
+  }
+]
